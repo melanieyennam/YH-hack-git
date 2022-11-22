@@ -1,0 +1,10 @@
+pdf2image
+pyMUpdf
+PyPDF2
+transformers
+datasets
+opencv-python
+matplotlib
+pytesseract
+boto3
+labelbox
